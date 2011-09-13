@@ -10,7 +10,7 @@ I have a few projects that I work on when I can.  You can find them all on my `g
 Project                                                               Description
 ==============================================================        =================================================
 `pyvisdk <http://xuru.github.com/pyvisdk/index.html>`_                :ref:`pyvisdk`
-`vixDiskLib <https://github.com/xuru/vixDiskLib>`_                    vixDiskLib wrapper in Python
+`vixDiskLib <https://github.com/xuru/vixDiskLib>`_                    :ref:`vixDiskLib`
 `vmware-scrapper <https://github.com/xuru/vmware-scrapper>`_          `vmware-scraper <http://xuru.github.com/vmware-scraper>`_ is a scrapy project to scrape the `VMware vSphere web services API <http://www.vmware.com/support/developer/vc-sdk/>`_ and generate code and sphinx documentation for pyvisdk.
 ==============================================================        =================================================
  

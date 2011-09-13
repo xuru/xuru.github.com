@@ -238,7 +238,8 @@ todo_include_todos = True
 
 
 intersphinx_mapping = {
-    'pyvisdk': ('http://xuru.github.com/pyvisdk/', None)
+    'pyvisdk': ('http://xuru.github.com/pyvisdk/', None),
+    'vixDiskLib': ('http://xuru.github.com/vixDiskLib/', None)
     }
 
 

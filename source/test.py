@@ -1,6 +1,6 @@
 from sphinx.ext.intersphinx import read_inventory_v2
 from posixpath import join
-url = "https://raw.github.com/xuru/pyvisdk/gh-pages/"
+url = "https://raw.github.com/xuru/vixDiskLib/gh-pages/"
 inv = "objects.inv"
 f = open(inv, 'rb')
 line = f.readline()
